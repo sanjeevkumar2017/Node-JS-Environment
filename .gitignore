@@ -1,0 +1,3 @@
+// Remove this file in you actual project.
+*.env 
+node_modules/
